@@ -1,0 +1,8 @@
+01:04:57.060 [main] INFO  repository.BaseFile - Driver is initialized
+01:08:31.013 [main] INFO  repository.BaseFile - Driver is initialized
+01:08:32.151 [main] INFO  repository.BaseFile - Driver is maximized
+01:08:32.157 [main] INFO  repository.BaseFile - ImplicitlyWait Triggered
+01:08:32.380 [main] INFO  repository.BaseFile - Naviagted to URL
+01:08:37.381 [main] INFO  repository.BaseFile - Waiting..
+01:08:37.492 [main] INFO  repository.BaseFile - Browser Closed
+01:08:37.492 [main] INFO  repository.BaseFile - Test Passed

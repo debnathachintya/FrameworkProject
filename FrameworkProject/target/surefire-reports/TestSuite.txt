@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.645 s <<< FAILURE! - in TestSuite
+initialize(validation.NavigateURL)  Time elapsed: 1.523 s  <<< FAILURE!
+java.lang.NullPointerException
+	at validation.NavigateURL.initialize(NavigateURL.java:13)
+
