@@ -6,4 +6,9 @@
       <class name="loginPage.NavigateURL"/>
     </classes>
   </test>
+  <test name="Validate Title">
+    <classes>
+      <class name="loginPage.ValidateTitle"/>
+    </classes>
+  </test>
 </suite>

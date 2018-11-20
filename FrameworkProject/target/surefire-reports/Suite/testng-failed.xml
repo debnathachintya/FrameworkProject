@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
-  <test name="Validate URL">
+  <test name="Navigate URL">
     <classes>
       <class name="loginPage.NavigateURL"/>
     </classes>
-  </test> <!-- Validate URL -->
+  </test> <!-- Navigate URL -->
+  <test name="Validate Title">
+    <classes>
+      <class name="loginPage.ValidateTitle"/>
+    </classes>
+  </test> <!-- Validate Title -->
 </suite> <!-- Failed suite [Suite] -->
