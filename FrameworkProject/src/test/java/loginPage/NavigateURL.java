@@ -14,6 +14,7 @@ import repository.BaseFile;
 
 public class NavigateURL extends BaseFile {
 	public static Logger log = LogManager.getLogger(NavigateURL.class.getName());
+	
 	@BeforeTest
 	public void initialize() throws IOException {
 		driver = initializeDriver();

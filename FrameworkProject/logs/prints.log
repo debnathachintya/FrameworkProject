@@ -1,8 +1,5 @@
-01:11:26.508 [main] INFO  repository.BaseFile - Properties File Loaded
-01:11:29.398 [main] INFO  loginPage.NavigateURL - Driver is initialized
-01:11:30.523 [main] INFO  loginPage.NavigateURL - Driver is maximized
-01:11:30.531 [main] INFO  loginPage.NavigateURL - ImplicitlyWait Triggered
-01:11:30.707 [main] INFO  loginPage.NavigateURL - Naviagted to URL
-01:11:35.707 [main] INFO  loginPage.NavigateURL - Waiting..
-01:11:35.828 [main] INFO  loginPage.NavigateURL - Browser Closed
-01:11:35.828 [main] INFO  loginPage.NavigateURL - Test Passed
+12:56:08.824 [main] INFO  loginPage.NavigateURL - Naviagted to URL
+12:56:13.834 [main] INFO  repository.BaseFile - Sleep Time Added
+12:56:13.834 [main] INFO  loginPage.NavigateURL - Waiting..
+12:56:14.191 [main] INFO  loginPage.NavigateURL - Browser Closed
+12:56:14.192 [main] INFO  loginPage.NavigateURL - Test Passed

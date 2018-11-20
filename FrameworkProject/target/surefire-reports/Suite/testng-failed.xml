@@ -3,17 +3,7 @@
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
   <test name="Validate URL">
     <classes>
-      <class name="validation.NavigateURL"/>
+      <class name="loginPage.NavigateURL"/>
     </classes>
   </test> <!-- Validate URL -->
-  <test name="Validate URL(failed)">
-    <classes>
-      <class name="validation.NavigateURL">
-        <methods>
-          <include name="navigateURL"/>
-          <include name="initialize"/>
-        </methods>
-      </class> <!-- validation.NavigateURL -->
-    </classes>
-  </test> <!-- Validate URL(failed) -->
 </suite> <!-- Failed suite [Suite] -->
