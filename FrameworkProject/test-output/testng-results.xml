@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9332" started-at="2018-11-19T19:41:26Z" finished-at="2018-11-19T19:41:35Z">
+  <suite name="Default suite" duration-ms="13869" started-at="2018-11-21T14:01:30Z" finished-at="2018-11-21T14:01:44Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9332" started-at="2018-11-19T19:41:26Z" finished-at="2018-11-19T19:41:35Z">
-      <class name="loginPage.NavigateURL">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:loginPage.NavigateURL@59662a0b]" name="initialize" is-config="true" duration-ms="4033" started-at="2018-11-19T19:41:26Z" finished-at="2018-11-19T19:41:30Z">
+    <test name="Default test" duration-ms="13869" started-at="2018-11-21T14:01:30Z" finished-at="2018-11-21T14:01:44Z">
+      <class name="loginPage.Login">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:loginPage.Login@4135c3b]" name="initialize" is-config="true" duration-ms="6558" started-at="2018-11-21T14:01:30Z" finished-at="2018-11-21T14:01:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="navigateURL()[pri:0, instance:loginPage.NavigateURL@59662a0b]" name="navigateURL" duration-ms="5220" started-at="2018-11-19T19:41:30Z" finished-at="2018-11-19T19:41:35Z">
+        <test-method status="PASS" signature="validateLogin()[pri:0, instance:loginPage.Login@4135c3b]" name="validateLogin" duration-ms="7073" started-at="2018-11-21T14:01:36Z" finished-at="2018-11-21T14:01:43Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- navigateURL -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:loginPage.NavigateURL@59662a0b]" name="tearDown" is-config="true" duration-ms="64" started-at="2018-11-19T19:41:35Z" finished-at="2018-11-19T19:41:35Z">
+        </test-method> <!-- validateLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:loginPage.Login@4135c3b]" name="tearDown" is-config="true" duration-ms="203" started-at="2018-11-21T14:01:43Z" finished-at="2018-11-21T14:01:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- loginPage.NavigateURL -->
+      </class> <!-- loginPage.Login -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

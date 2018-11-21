@@ -6,8 +6,6 @@
       <class name="loginPage.NavigateURL">
         <methods>
           <include name="navigateURL"/>
-          <include name="initialize"/>
-          <include name="tearDown"/>
         </methods>
       </class> <!-- loginPage.NavigateURL -->
     </classes>

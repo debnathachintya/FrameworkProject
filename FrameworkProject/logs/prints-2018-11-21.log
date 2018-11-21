@@ -1,7 +1,7 @@
-2018-11-21 13:22:08.743 [main] INFO  repository.BaseFile - Waiting Time Added
-2018-11-21 13:22:08.743 [main] INFO  loginPage.Login - ImplicitlyWait Triggered
-2018-11-21 13:22:09.130 [main] INFO  loginPage.Login - Navigated to the given URL
-2018-11-21 13:22:12.135 [main] INFO  repository.BaseFile - Sleep Time Added
-2018-11-21 13:22:12.288 [main] INFO  loginPage.Login - Username entered
-2018-11-21 13:22:12.356 [main] INFO  loginPage.Login - Password entered
-2018-11-21 13:22:15.361 [main] INFO  repository.BaseFile - Sleep Time Added
+2018-11-21 19:35:02.569 [main] INFO  repository.BaseFile - Sleep Time Added
+2018-11-21 19:35:02.790 [main] INFO  loginPage.Login - Username entered
+2018-11-21 19:35:02.913 [main] INFO  loginPage.Login - Password entered
+2018-11-21 19:35:05.915 [main] INFO  repository.BaseFile - Sleep Time Added
+2018-11-21 19:35:05.915 [main] INFO  repository.BaseFile - Current Date/Time Captured
+2018-11-21 19:35:06.381 [main] INFO  repository.BaseFile - Screenshot Taken
+2018-11-21 19:35:08.664 [main] INFO  loginPage.BaseTest - Browser Closed
