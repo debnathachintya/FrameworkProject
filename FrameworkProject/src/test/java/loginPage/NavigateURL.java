@@ -11,6 +11,7 @@ public class NavigateURL extends BaseTest {
 		driver.get(prop.getProperty("url"));
 		log.info("Naviagted to URL");
 		threadSleep();
+		log.info("Waiting Time Added");
 		String input = getDateTime();
 		getScreenshot(input);
 		log.info("Screenshot Captured");
