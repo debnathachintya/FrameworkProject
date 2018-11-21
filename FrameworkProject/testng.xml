@@ -11,4 +11,9 @@
       <class name="loginPage.ValidateTitle"/>
     </classes>
   </test>
+  <test name="Login Page Validation">
+    <classes>
+      <class name="loginPage.Login"/>
+    </classes>
+  </test>
 </suite>

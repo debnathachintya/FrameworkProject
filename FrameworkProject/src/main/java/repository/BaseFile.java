@@ -51,7 +51,7 @@ public class BaseFile {
 	}
 	
 	public void threadSleep() throws InterruptedException {
-		Thread.sleep(5000);
+		Thread.sleep(3000);
 		log.info("Sleep Time Added");
 	}
 }

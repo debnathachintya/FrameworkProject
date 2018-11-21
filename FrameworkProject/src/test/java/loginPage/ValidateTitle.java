@@ -35,7 +35,6 @@ public static Logger log = LogManager.getLogger(ValidateTitle.class.getName());
 		String pageTitle = driver.getTitle();
 		log.info("Page title captured and stored in string");
 		if(pageTitle.equals("LoginPage")) {
-			System.out.println("Page Title is displayed as expected");
 			log.info("Expected Title");
 		}
 		else {

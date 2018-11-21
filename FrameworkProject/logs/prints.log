@@ -1,2 +1,2 @@
-16:26:05.251 [main] INFO  loginPage.NavigateURL - Browser Closed
-16:26:05.257 [main] INFO  loginPage.NavigateURL - Test Passed
+2018-11-21 13:22:15.589 [main] INFO  loginPage.Login - Browser closed
+2018-11-21 13:22:15.597 [main] INFO  loginPage.Login - Driver object refreshed
