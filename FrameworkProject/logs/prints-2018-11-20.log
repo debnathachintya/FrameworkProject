@@ -1,8 +1,0 @@
-16:25:59.679 [main] INFO  repository.BaseFile - Browser Window Maximized
-16:25:59.684 [main] INFO  loginPage.NavigateURL - Driver is maximized
-16:25:59.689 [main] INFO  repository.BaseFile - Waiting Time Added
-16:25:59.689 [main] INFO  loginPage.NavigateURL - ImplicitlyWait Triggered
-16:26:00.059 [main] INFO  loginPage.NavigateURL - Naviagted to URL
-16:26:05.060 [main] INFO  repository.BaseFile - Sleep Time Added
-16:26:05.060 [main] INFO  loginPage.NavigateURL - Waiting..
-16:26:05.083 [main] INFO  loginPage.NavigateURL - Expected Title
